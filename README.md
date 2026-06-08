@@ -5,8 +5,10 @@ Principal Engineer with 18 years across finance, defence, broadcast, and the pub
 
 ### What I'm building
 
+* **AI Agent with FastMCP** — Full-stack AI agent with a Claude-powered FastAPI orchestrator, FastMCP tool server, PostgreSQL, and real-time SSE streaming. Supports both Claude and Ollama backends. Full CI pipeline with unit, integration, and smoke tests.
 * **OANDA MCP Server** — MCP server wrapping the OANDA V20 REST API. Lets AI agents query market data, manage orders, and control positions. Built with FastMCP, supports stdio and HTTP transport.
-* **RAG pipelines** — Local and LangChain-based RAG with ChromaDB, Ollama, Streamlit, and LangSmith tracing.
+* **Claude Brainstorm** — Spec-driven development workflow for Claude Code projects. Ships with slash commands (/brainstorm-spec, /create-spec, /create-tasks, /execute-tasks) and a structured CLAUDE.md for consistent AI-assisted delivery.
+* **RAG pipelines** — LangChain-based RAG with ChromaDB, Ollama, Streamlit, and LangSmith tracing. Also available as a simpler local-only variant.
 * **MLOps platform** — KServe on EKS/minikube with ArgoCD GitOps, GPU node groups, and full model hosting infrastructure.
 
 ---
