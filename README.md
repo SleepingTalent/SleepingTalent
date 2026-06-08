@@ -1,5 +1,3 @@
-Preview — copy the markdown below
-
 James Fairbairn
 Principal Engineer · MLOps · Cloud DevOps · AI Agent Systems
 
