@@ -9,6 +9,7 @@ Principal Engineer with 18 years across finance, defence, broadcast, and the pub
 * **OANDA MCP Server** — MCP server wrapping the OANDA V20 REST API. Lets AI agents query market data, manage orders, and control positions. Built with FastMCP, supports stdio and HTTP transport.
 * **Claude Brainstorm** — Spec-driven development workflow for Claude Code projects. Ships with slash commands (/brainstorm-spec, /create-spec, /create-tasks, /execute-tasks) and a structured CLAUDE.md for consistent AI-assisted delivery.
 * **RAG pipelines** — LangChain-based RAG with ChromaDB, Ollama, Streamlit, and LangSmith tracing. Also available as a simpler local-only variant.
+* **Forex Trading Agent** — agentic trading workflow using Claude Code, Oanda MCP servers, and local LLMs targeting major currency pairs on a simulated demo portfolio.
 * **MLOps platform** — KServe on EKS/minikube with ArgoCD GitOps, GPU node groups, and full model hosting infrastructure.
 
 ---
